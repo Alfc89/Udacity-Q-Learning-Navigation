@@ -19,11 +19,9 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
 # Getting Started
-As per the [Udacity Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning#dependencies)
+As per the [Udacity Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning#dependencies):
 ## Dependencies
 [//]: # (Image References)
-
-[image1]: https://user-images.githubusercontent.com/10624937/42135602-b0335606-7d12-11e8-8689-dd1cf9fa11a9.gif "Trained Agents"
 [image2]: https://user-images.githubusercontent.com/10624937/42386929-76f671f0-8106-11e8-9376-f17da2ae852e.png "Kernel"
 
 To set up your python environment to run the code in this repository, follow the instructions below.
@@ -62,5 +60,5 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 
 # Instructions
-The README describes how to run the code in the repository, to train the agent. 
+In order to run the code in the repository to train the agent...
 
