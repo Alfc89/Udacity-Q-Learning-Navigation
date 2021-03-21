@@ -34,6 +34,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ## Dependencies
 As per the [Udacity Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning#dependencies):
+
 [//]: # (Image References)
 [image2]: https://user-images.githubusercontent.com/10624937/42386929-76f671f0-8106-11e8-9376-f17da2ae852e.png "Kernel"
 
