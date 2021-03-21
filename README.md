@@ -74,5 +74,4 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 
 # Instructions
-In order to run the code in the repository to train the agent...
-
+Follow the instructions in `Navigation.ipynb` to get started in training the Agent. Its second to last cell trains the agent; you might want to skip this step and directly see the test in the last cell, with the "checkpoint.pth" file as base. 
